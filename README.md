@@ -80,7 +80,7 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-[React App](https://github.com/Miliyonayalew/hello-react-front-end/tree/rails-front-end)
+[React App](https://github.com/Miliyonayalew/hello-react-front-end/pull/1)
 
 In order to run this project you need:
 ```sh
