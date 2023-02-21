@@ -5,14 +5,14 @@
  
   <br/>
 
-  <h3><b>Hello-Rails-Backend</b></h3>
+  <h3><b>Hello-Rails-Back-end</b></h3>
 
 </div>
 
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[Hello-Rails-Backend\] ](#-hello-rails-backend-)
+- [📖 \[Hello-Rails-Back-end\] ](#-hello-rails-back-end-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -31,9 +31,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello-Rails-Backend] <a name="about-project"></a>
+# 📖 [Hello-Rails-Back-end] <a name="about-project"></a>
 
-**[Hello-Rails-Backend]** This exercise is going to have you create a React front-end with a Rails back-end and connect them to display a random message.
+**[Hello-Rails-Back-end]** This exercise is going to have you create a React front-end with a Rails back-end and connect them to display a random message.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -95,8 +95,8 @@ Clone this repository to your desired folder:
 
 
 ```sh
-  git clone https://github.com/Miliyonayalew/hello-rails-react.git
-  cd hello-rails-react
+  git clone https://github.com/Miliyonayalew/hello-rails-back-end.git
+  cd hello-rails-back-end
 ```
 
 ### Install
@@ -105,7 +105,6 @@ Install this project with:
 
 ```sh
   Run bundle install 
-  yarn install
   Run rails db:create
   Run rails db:migrate
   Run rails db:seed
@@ -116,7 +115,7 @@ Install this project with:
 To run the project, execute the following command:
 
 ```sh
-  /bin/dev  
+  rails s
   
 ```
 
@@ -147,7 +146,7 @@ To run the project, execute the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Miliyonayalew/hello-rails-react/issues).
+Feel free to check the [issues page](https://github.com/Miliyonayalew/hello-rails-back-end/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
