@@ -80,6 +80,8 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
+[React App](https://github.com/Miliyonayalew/hello-react-front-end/tree/rails-front-end)
+
 In order to run this project you need:
 ```sh
   Ruby version - ruby 3.1.2 
